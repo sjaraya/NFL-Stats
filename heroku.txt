@@ -1,0 +1,7 @@
+mysql://b28e625cd4879c:aa308484@us-cdbr-iron-east-03.cleardb.net/heroku_89813343cbae018?reconnect=true
+------------------------------------------
+user: b28e625cd4879c
+password: aa308484
+host: us-cdbr-iron-east-03.cleardb.net
+db: heroku_89813343cbae018
+------------------------------------------
